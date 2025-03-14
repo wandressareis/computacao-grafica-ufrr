@@ -36,13 +36,13 @@ $$
 ---
 <div style="text-align:center">
 
-  <img src="./imagens/analitico1.png" alt="Alt text"  width="200"/>
+  <img src="./src/analitico1.png" alt="Alt text"  width="200"/>
 
-  <img src="./imagens/analitico2.png" alt="Alt text" width="200"/>
+  <img src="./src/analitico2.png" alt="Alt text" width="200"/>
 
-  <img src="./imagens/analitico_vertical.png" alt="Alt text" width="200"/>
+  <img src="./src/analitico_vertical.png" alt="Alt text" width="200"/>
 
-  <img src="./imagens/analitico_horizontal.png" alt="Alt text" width="200"/>
+  <img src="./src/analitico_horizontal.png" alt="Alt text" width="200"/>
 
 </div>
 
@@ -51,13 +51,13 @@ $$
 
 <div style="text-align:center">
 
-  <img src="./imagens/dda1.png" alt="Alt text"  width="200"/>
+  <img src="./src/dda1.png" alt="Alt text"  width="200"/>
 
-  <img src="./imagens/dda2.png" alt="Alt text" width="200"/>
+  <img src="./src/dda2.png" alt="Alt text" width="200"/>
 
-  <img src="./imagens/dda_vertical.png" alt="Alt text" width="200"/>
+  <img src="./src/dda_vertical.png" alt="Alt text" width="200"/>
 
-  <img src="./imagens/dda_horizontal.png" alt="Alt text" width="200"/>
+  <img src="./src/dda_horizontal.png" alt="Alt text" width="200"/>
   
 </div>
 
@@ -66,12 +66,12 @@ $$
 
 <div style="text-align:center">
 
-  <img src="./imagens/bresenham1.png" alt="Alt text"  width="200"/>
+  <img src="./src/bresenham1.png" alt="Alt text"  width="200"/>
 
-  <img src="./imagens/bresenham2.png" alt="Alt text" width="200"/>
+  <img src="./src/bresenham2.png" alt="Alt text" width="200"/>
 
-  <img src="./imagens/bresenham_vertical.png" alt="Alt text" width="200"/>
+  <img src="./src/bresenham_vertical.png" alt="Alt text" width="200"/>
 
-  <img src="./imagens/bresenham_horizontal.png" alt="Alt text" width="200"/>
+  <img src="./src/bresenham_horizontal.png" alt="Alt text" width="200"/>
   
 </div>
