@@ -23,7 +23,7 @@ def main():
         # raio = int(input('Informe o valor do raio: '))
 
         # Criar matriz
-        matriz_circulo = np.zeros((size, size));
+        matriz_circulo = np.zeros((size, size))
         circulo_bresenham(matriz_circulo, 50, 50, 30)
         flood_fill(matriz_circulo, 45, 42, 0, 2)
         plt.matshow(matriz_circulo)
